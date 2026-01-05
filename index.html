@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portalhoki77</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Portalhoki77</h1>
+  <p>Portal Game & Aplikasi Terpercaya</p>
+</header>
+
+<section class="grid" id="game-list"></section>
+
+<script src="data.js"></script>
+<script>
+const container = document.getElementById("game-list");
+games.forEach(item => {
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <img src="${item.logo}" alt="${item.name}">
+    <h3>${item.name}</h3>
+    <a class="btn-play" href="${item.link}" target="_blank">Mulai Bermain</a>
+  `;
+  container.appendChild(card);
+});
+</script>
+</body>
+</html>
