@@ -1,37 +1,36 @@
-const games = [
 {
-  name: "8768D",
-  logo: "assets/8768d.png",
-  link: "https://example.com"
+  name: "PG SOFT",
+  image: "assets/pgsoft.png",
+  link: "#"
 },
 {
-  name: "KAKRP",
-  logo: "assets/kakrp.png",
-  link: "https://example.com"
+  name: "HABANERO",
+  image: "assets/habanero.png",
+  link: "#"
 },
 {
-  name: "PRAGMATIC PLAY",
-  logo: "assets/pragmatic.png",
-  link: "https://example.com"
-}, 
-{
-  name: "PRAGMATIC PLAY",
-  logo: "assets/pragmatic.png",
-  link: "https://example.com"
-  },
-{
-  name: "PRAGMATIC PLAY",
-  logo: "assets/pragmatic.png",
-  link: "https://example.com"
+  name: "JOKER",
+  image: "assets/joker.png",
+  link: "#"
 },
-  {
-  name: "PRAGMATIC PLAY",
-  logo: "assets/pragmatic.png",
-  link: "https://example.com"
+{
+  name: "MICROGAMING",
+  image: "assets/microgaming.png",
+  link: "#"
 },
-  {
-  name: "PRAGMATIC PLAY",
-  logo: "assets/pragmatic.png",
-  link: "https://example.com"
+{
+  name: "SPADEGAMING",
+  image: "assets/spadegaming.png",
+  link: "#"
+},
+{
+  name: "CQ9",
+  image: "assets/cq9.png",
+  link: "#"
+},
+{
+  name: "PLAYSTAR",
+  image: "assets/playstar.png",
+  link: "#"
 }
 ];
