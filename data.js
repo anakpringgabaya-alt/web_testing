@@ -13,5 +13,25 @@ const games = [
   name: "PRAGMATIC PLAY",
   logo: "assets/pragmatic.png",
   link: "https://example.com"
+}, 
+{
+  name: "PRAGMATIC PLAY",
+  logo: "assets/pragmatic.png",
+  link: "https://example.com"
+  },
+{
+  name: "PRAGMATIC PLAY",
+  logo: "assets/pragmatic.png",
+  link: "https://example.com"
+},
+  {
+  name: "PRAGMATIC PLAY",
+  logo: "assets/pragmatic.png",
+  link: "https://example.com"
+},
+  {
+  name: "PRAGMATIC PLAY",
+  logo: "assets/pragmatic.png",
+  link: "https://example.com"
 }
 ];
